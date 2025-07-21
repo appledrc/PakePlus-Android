@@ -38,3 +38,10 @@ document.addEventListener('fullscreenchange', (event) => {
     }
 });
 
+{
+    "permissions": {
+        "fullscreen": true,
+        "window": true
+    }
+}
+
